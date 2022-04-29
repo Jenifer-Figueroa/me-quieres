@@ -19,7 +19,7 @@ no.addEventListener('click', function(){
 yes.addEventListener('click', function(){
     Swal.fire({
         html:
-        '<div class="amor"><h2>Te Quiero Mucho!!</h2> <div class="amor2"><img class="love" src="image/amor.gif" alt="love"></div> <div class="frase"><h2>Gracias por ser tan adorable conmigo</h2> </div> </div> ',
+        '<div class="amor"><h2>Te Quiero Mucho!!!</h2> <div class="amor2"><img class="love" src="image/amor.gif" alt="love"></div> <div class="frase"><h2>Gracias por ser tan adorable conmigo</h2> </div> </div> ',
         confirmButtonText: `Aceptar`
     })
 })
